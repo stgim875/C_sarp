@@ -11,6 +11,7 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
+            //1강 첫프로젝트 생성
             Console.WriteLine("글자찍기");
         }
     }

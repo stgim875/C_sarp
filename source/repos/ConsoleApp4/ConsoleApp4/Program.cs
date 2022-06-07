@@ -10,12 +10,13 @@ namespace ConsoleApp4
     {
         static void Main(string[] args)
         {
-            // 단항연산자
+            //3강 연산자
+            //단항연산자
             //int a = 5;
             //a++; // 1을 더해줌
             //Console.WriteLine(a);
 
-            // 이항연산자
+            //이항연산자
             //int a = 5;
             //int b = 3;
             //int c = 0;
@@ -24,50 +25,50 @@ namespace ConsoleApp4
             //c = a + b;
             //Console.WriteLine(c);
 
-            // 삼항연산자
+            //삼항연산자
             //int c = (5 > 3) ? 2 : 0;
             //Console.WriteLine(c);
 
-            // 대입연산자
+            //대입연산자
             //int a = 5;
             //int b = 6;
             //b = a; //b에도 5 값이 저장
             //string str = "b" + "gst" + b;
             //Console.WriteLine(str);
 
-            // 산술연산자
+            //산술연산자
             // 덧셈 연산자
             //int a = 5;
             //int b = 6;
             //int c = a + b;
             //Console.WriteLine(c);
 
-            // 빼기 연산자
+            //빼기 연산자
             //int a = 3;
             //int b = 6;
             //int c = a - b;
             //Console.WriteLine(c);
 
-            // 곱셈 연산자
+            //곱셈 연산자
             //int a = 5;
             //int b = 6;
             //int c = a * b;
             //Console.WriteLine(c);
 
-            // 나눗셈 연산자
+            //나눗셈 연산자
             //int a = 5;
             //int b = 6;
             //int c = a / b;
             //Console.WriteLine(c);  // 값은 0.8333333...
 
-            // 나머지 연산자
+            //나머지 연산자
             //int a = 5;
             //int b = 2;
             //int c = a % b; // 몫이 2 , 나머지는 1이 출력된다.
             //Console.WriteLine(c);
 
 
-            // 증감 연산자
+            //증감 연산자
             //int a = 5;
             //a++;
             //Console.WriteLine(a++);
@@ -83,7 +84,7 @@ namespace ConsoleApp4
             //Console.WriteLine(++a);
             //Console.WriteLine(a);
 
-            // 복합대입연산자
+            //복합대입연산자
             //int a = 5;
             //a += 3; // a = a+3;
             //Console.WriteLine(a);
@@ -100,7 +101,7 @@ namespace ConsoleApp4
             //a /= 3; // a = a/3;
             //Console.WriteLine(a);
 
-            // 비교연산자
+            //비교연산자
             //int a = 5;
             //int b = 6;
             //bool result = (a == b);
@@ -121,7 +122,7 @@ namespace ConsoleApp4
             //bool result = a > b;
             //Console.WriteLine(result);
 
-            // 조건 연산자
+            //조건 연산자
             //int a = 3;
             //int b = 4;
             //string c = (a > b) ? "참입니다." : "거짓입니다.";
@@ -132,7 +133,7 @@ namespace ConsoleApp4
             //string c = (a < b) ? "참입니다." : "거짓입니다.";
             //Console.WriteLine(c);
 
-            // 논리연산자
+            //논리연산자
             //if (true)
             //{
             //    Console.WriteLine("참 일경우에민 이 코드 실행");
@@ -142,20 +143,20 @@ namespace ConsoleApp4
             //    Console.WriteLine("거짓 일경우에만 이 코드 실행");
             //}
 
-            // AND 연산자
+            //AND 연산자
             //bool result = true;
             //bool result2 = true;
             //////!
             //Console.WriteLine(!result && result2);
 
-            // OR 연산자
+            //OR 연산자
             //bool result = true;
             //bool result2 = true;
             //////!
             //Console.WriteLine(!result || result2);
 
-            // 비트 연산자
-            // 비트 연산자는 2진수로 계산
+            //비트 연산자
+            //비트 연산자는 2진수로 계산
             //int a = 1; // 0001
             //int b = 5; // 0101
             //int c = 0; // 0000

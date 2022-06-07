@@ -10,10 +10,11 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            //0강 미리보기
             Console.WriteLine("글짜찍기");
-            // 저장 : Ctrl + S
-            // 솔루션 빌드 : Ctrl + Shift + B
-            // 실행 : Ctrl + F5
+            //저장 : Ctrl + S
+            //솔루션 빌드 : Ctrl + Shift + B
+            //실행 : Ctrl + F5
         }
     }
 }

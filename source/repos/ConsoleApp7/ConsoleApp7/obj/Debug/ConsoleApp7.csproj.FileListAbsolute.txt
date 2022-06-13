@@ -1,0 +1,8 @@
+C:\Users\marin\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe.config
+C:\Users\marin\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe
+C:\Users\marin\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.pdb
+C:\Users\marin\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.AssemblyReference.cache
+C:\Users\marin\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.SuggestedBindingRedirects.cache
+C:\Users\marin\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.CoreCompileInputs.cache
+C:\Users\marin\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.exe
+C:\Users\marin\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.pdb
